@@ -46,11 +46,13 @@ I'm an aspiring AI/ML Software Engineer passionate about building intelligent ap
 ## 🚀 Featured Projects
 
 ### 1. Agentic AI-Powered Data Analysis & ETL Automation System
-- Built a multi-agent system using LangGraph and LangChain to convert natural-language requests into SQL and ETL tasks.
+- Built a multi-agent  system using LangGraph and LangChain (main topics) to convert natural-language requests into SQL and ETL tasks.
 - Implemented intelligent intent classification, conditional routing, and automated model selection.
 - Developed a Text-to-SQL pipeline with schema retrieval and read-only query execution.
 - Built automated ETL workflows using REST APIs and Pandas.
+- auto llm selection based on tasks complexity  to save llm costs 
 - Achieved **95% accuracy (19/20)** across test cases.
+- 
 
 **Tech Stack:** Python, LangGraph, LangChain, OpenAI API, PostgreSQL, Pandas, Pydantic
 
